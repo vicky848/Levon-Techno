@@ -1,0 +1,33 @@
+.teacher-container{
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.form-container-teacher{
+    background-color: aliceblue;
+    margin-top: 50px;
+    height: 300px;
+    width: 600px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px lightgray;
+}
+
+.teacher-heading{
+    font-size: 28px;
+    font-family: "Roboto";
+    font-weight: bold;
+    margin-top: 30px;
+    padding-top: 30px;  
+}
+
+.teacher-label{
+
+}
+
+.teacher-input{
+    margin: 5px;
+    margin-left: 10px;
+
+}

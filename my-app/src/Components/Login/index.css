@@ -1,0 +1,43 @@
+.label{
+    margin-right: 190px;
+    
+}
+.username{
+    width: 300px;
+    margin-top: 5px;
+}
+.password {
+    width: 300px;
+    margin-top: 5px;
+
+}
+.login-heading{
+    margin-top: 20px;
+    font-size: 35px;
+    font-family: "Roboto";
+    font-weight: bold;
+
+}
+.login-container{
+    display: flex;
+    justify-content: center;
+}
+
+    
+.form-container{
+ 
+margin-top: 60px;
+height: 400px;
+width: 500px;
+background-color: #ffffffe3;
+border-radius: 8px;
+box-shadow: 3px 3px 10px lightgray;
+
+
+   
+
+
+}
+.btn{
+    margin: 10px;
+}

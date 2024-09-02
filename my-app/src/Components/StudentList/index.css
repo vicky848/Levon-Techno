@@ -1,0 +1,26 @@
+
+
+.student-heading{
+    font-size: 28px;
+    font-family: "Roboto";
+    font-weight: bold;
+    margin-top: 30px;
+    padding-top: 30px;
+
+}
+.form-container-student{
+    background-color: aliceblue;
+    margin-top: 50px;
+    height: 300px;
+    width: 600px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px lightgray;
+}
+.student-container{
+    display: flex;
+    justify-content: center;
+}
+.student-input{
+    margin: 5px;
+    margin-left: 10px;
+}
